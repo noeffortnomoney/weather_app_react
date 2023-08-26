@@ -1,5 +1,5 @@
 # DEMO PROJECT WEATHER APP
-  [Weather App](https://noeffortnomoney.github.io/weather_app_react/))
+  [Weather App](https://noeffortnomoney.github.io/weather_app_react/)
   
 # Getting Started with Create React App
 
