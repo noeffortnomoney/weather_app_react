@@ -1,6 +1,6 @@
 # DEMO PROJECT WEATHER APP
   [Weather App](https://noeffortnomoney.github.io/weather_app_react/)
-  <center><img src="https://github.com/noeffortnomoney/weather_app_react/blob/main/pic_weather_app.png" alt="pic" width="100" height="150"></center>
+  <center><img src="https://github.com/noeffortnomoney/weather_app_react/blob/main/pic_weather_app.png" alt="pic" width="300" height="350"></center>
   
 # Getting Started with Create React App
 
