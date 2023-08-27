@@ -72,3 +72,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# HOW TO FETCH API 
+### WEATHER APP: How to get free link API
+Step 1: You can visit following link:
+https://openweathermap.org/api
+Step 2: Searching the API doc under 'Current Weather App Data' and click it.
+Step 3: Searching the Api link under the 'Examples of API calls:' and copy it, after that you paste it into the vscode in api call.
+### Weather APP: How to get free API key 
+- You must create the new account in this website then you log in it.
+Step 1: You can visit following link:
+[https://openweathermap.org/api](https://openweathermap.org/)
+Step 2: Searching the account on navbar menu, then search in list and choose "My API keys".
+Step 3: Chóoing the Api keys under the 'API keys' and copy it, after that you paste it into the vscode in api call.
+
+
