@@ -88,7 +88,7 @@ Step 3: Searching the Api link under the 'Examples of API calls:' and copy it, a
 ### Weather APP: How to get free API key 
 
 - You must create the new account in this website then you log in it.
-- 
+  
 Step 1: You can visit following link:
 
 [https://openweathermap.org/api](https://openweathermap.org/)
