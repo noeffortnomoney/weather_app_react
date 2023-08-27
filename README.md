@@ -1,8 +1,8 @@
 # DEMO PROJECT WEATHER APP
 
-  [Weather App](https://noeffortnomoney.github.io/weather_app_react/)
+  - Link DEMO: [Weather App](https://noeffortnomoney.github.io/weather_app_react/)
 
-  Technology in use the project: HTML, CSS, ReactJS
+  - Technology in use the project: HTML, CSS, ReactJS
   
   <center><img src="https://github.com/noeffortnomoney/weather_app_react/blob/main/pic_weather_app.png" alt="pic" width="300" height="350"></center>
   
