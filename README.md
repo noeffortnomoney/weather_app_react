@@ -75,7 +75,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # HOW TO FETCH API 
 
-### WEATHER APP: How to get free link API
+### Weather App: How to get free link API
 
 Step 1: You can visit following link:
 
@@ -85,7 +85,7 @@ Step 2: Searching the API doc under 'Current Weather App Data' and click it.
 
 Step 3: Searching the Api link under the 'Examples of API calls:' and copy it, after that you paste it into the vscode in api call.
 
-### Weather APP: How to get free API key 
+### Weather App: How to get free API key 
 
 - You must create the new account in this website then you log in it.
   
